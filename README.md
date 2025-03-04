@@ -31,7 +31,3 @@ make
 $ ./nand_tool [OPTIONS] <file> <pageSize> <spareSize>
 ```
 
-## Planned extentions
-- BCH codes
-- Hamming codes
-
